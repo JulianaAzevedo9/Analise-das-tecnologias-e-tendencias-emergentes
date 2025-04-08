@@ -1,0 +1,1 @@
+# Analise-das-tecnologias-e-tendencias-emergentes
