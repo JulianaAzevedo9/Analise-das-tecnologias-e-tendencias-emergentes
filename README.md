@@ -61,11 +61,11 @@ O público-alvo desta investigação inclui profissionais de TI, gestores de RH 
 
 A base para esta análise na **Análise sobre tecnologias e tendências emergentes** e as etapas para o processamento dos dados são as seguintes:
 
-[Exploração do conjunto de dados e análise das tecnologias e tendências emergentes](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/survey_results_IBM_Capstone_Project(3).ipynb)
+[Exploração do conjunto de dados e análise das tecnologias e tendências emergentes](https://github.com/JulianaAzevedo9/Analise-das-tecnologias-e-tendencias-emergentes/blob/main/survey_results_IBM_Capstone_Project(3)(1).ipynb)
 
 ## Resultados
 
-![10 principais linguagens de programação](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/Top10Languages.png)
+![10 principais linguagens de programação](https://github.com/JulianaAzevedo9/Analise-das-tecnologias-e-tendencias-emergentes/blob/main/10%20liguagens%20de%20programacao.png)
 
 ### Conclusões e implicações
 
@@ -85,7 +85,7 @@ A base para esta análise na **Análise sobre tecnologias e tendências emergent
   
 * A SQL continua a ser uma linguagem crucial para os profissionais de dados, o que torna vital que os aspirantes a analistas de dados, cientistas de dados e analistas empresariais possuam competências em SQL.
 
-![As 10 principais bases de dados](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/Top10Databases.png)
+![As 10 principais bases de dados](https://github.com/JulianaAzevedo9/Analise-das-tecnologias-e-tendencias-emergentes/blob/main/10%20principais%20bancos%20de%20dados.png)
 
 ### Conclusões e implicações
 
@@ -105,11 +105,11 @@ A base para esta análise na **Análise sobre tecnologias e tendências emergent
 
 ## Painéis
 
-![DashBoard: Tendências tecnológicas actuais](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/Dashboard%201.jpg)
+![DashBoard: Tendências tecnológicas actuais](https://github.com/JulianaAzevedo9/Analise-das-tecnologias-e-tendencias-emergentes/blob/main/tendencias%20tecnologicas%20atuais.png)
 
-![Painel de controlo: Tendências tecnológicas futuras](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/Dashboard%202.jpg)
+![Painel de controlo: Tendências tecnológicas futuras](https://github.com/JulianaAzevedo9/Analise-das-tecnologias-e-tendencias-emergentes/blob/main/tendencias%20tecnologicas%20futuras.png)
 
-![Painel de controlo: Dados demográficos](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/Dashboard%203.jpg)
+![Painel de controlo: Dados demográficos](https://github.com/JulianaAzevedo9/Analise-das-tecnologias-e-tendencias-emergentes/blob/main/Demografias.png)
 
 ## Discussão
 
@@ -153,22 +153,22 @@ A base para esta análise na **Análise sobre tecnologias e tendências emergent
 
 * O gráfico de barras abaixo mostra a distribuição dos inquiridos pelos 20 principais países.
 
-![imagem](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/Distribution%20of%20Respondents%20by%20Country.png)
+![imagem](https://github.com/JulianaAzevedo9/Analise-das-tecnologias-e-tendencias-emergentes/blob/main/distribuicao%20dos%20entrevistados%20por%20pais.png)
 
 #### Gráfico de Buble
 
 * O gráfico de bolhas abaixo mostra a popularidade das linguagens de programação em todos os grupos etários.
 
-![imagem](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/Popularity%20of%20Programming%20Languages%20by%20Age%20Group.jpg)
+![imagem](https://github.com/JulianaAzevedo9/Analise-das-tecnologias-e-tendencias-emergentes/blob/main/popularidade%20das%20linguagens%20de%20programacao.png)
 
 #### Gráfico de pizza
 
 * O gráfico de pizza abaixo mostra as 5 principais linguagens de programação.
 
-![imagem](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/Top%205%20Programmimng%20Languages.png)
+![imagem](https://github.com/JulianaAzevedo9/Analise-das-tecnologias-e-tendencias-emergentes/blob/main/AS%205%20principais%20linguagens%20de%20programacao.png)
 
 #### Gráfico de barras empilhadas
 
 * O gráfico de barras empilhadas abaixo mostra as bases de dados preferidas por grupos etários.
 
-![imagem](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/Preferred%20Databases%20by%20Age%20Group.jpg)
+![imagem](https://github.com/JulianaAzevedo9/Analise-das-tecnologias-e-tendencias-emergentes/blob/main/Bancos%20de%20dados%20preferidos%20por%20faixa%20etaria.png)
