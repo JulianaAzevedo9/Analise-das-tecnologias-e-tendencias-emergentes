@@ -4,35 +4,35 @@ A **Análise sobre tecnologias e tendências emergentes** é um projeto de base 
 
 ## Resumo executivo
 
-Para se manter competitivo no sector global das TI, é crucial estar a par das tecnologias em rápida evolução. Este relatório utiliza a análise de dados para identificar as tendências actuais e previstas na procura de competências associadas a linguagens de programação, bases de dados e outras áreas tecnológicas. Examina também as caraterísticas demográficas dos profissionais do sector tecnológico.
+Para manter a competitividade no setor global de TI, companhar as tecnologias em constante evolução. Este relatório utiliza a análise de dados para identificar as tendências actuais e previstas na procura de competências associadas a linguagens de programação, bases de dados e outras áreas tecnológicas. Examina também as caraterísticas demográficas dos profissionais do sector tecnológico.
 
-Os dados foram obtidos a partir de um inquérito Stack Overflow, do sítio Web da IBM e de anúncios de emprego no GitHub. Estes dados foram depois recolhidos, limpos, analisados através de métodos exploratórios e apresentados visualmente em dashboards.
+Os dados foram obtidos a partir de uma pesquisa do Stack Overflow, do website da IBM e de anúncios de vagas no GitHub. Em seguida, passaram por um fluxo completo de tratamento, incluindo coleta, limpeza, análise exploratória e, finalmente, foram visualizados em dashboards interativos para facilitar a interpretação e a extração de insights estratégicos.
 
-Os resultados indicaram que o JavaScript é atualmente a linguagem de programação mais utilizada. Por outro lado, Python ganhou popularidade entre os programadores. Atualmente, a Amazon Web Services é a base de dados mais utilizada, mas espera-se que o PostgreSQL registe um aumento da procura no futuro.
+Os resultados indicaram que o JavaScript é atualmente a linguagem de programação mais utilizada. Por outro lado, Python ganhou popularidade entre os programadores. Atualmente, a Amazon Web Services é a base de dados mais utilizada, mas espera-se que o PostgreSQL registre um aumento da procura no futuro.
 
 Além disso, a maioria dos participantes no inquérito é dos Estados Unidos, tem um diploma de bacharelato e tem entre 25 e 34 anos de idade.
 
 ## Introdução
 
-Este relatório de apresentação utiliza a análise de dados para realçar as tendências actuais e previstas relativamente à procura de competências associadas a linguagens de programação, bases de dados, plataformas e estruturas Web. As seguintes questões foram exploradas utilizando os dados:  
+Este relatório de apresentação utiliza análise de dados para destacar tendências atuais e futuras na demanda por habilidades relacionadas a Linguagens de programação, Bancos de dados, Plataformas e Frameworks web. As seguintes questões foram exploradas utilizando os dados:  
 
 1. Quais são as linguagens de programação com maior procura atualmente?  
 
-2. Que competências em matéria de bases de dados são mais procuradas?  
+2. Quais habilidades em bancos de dados são mais valorizadas?  
 
 3. Quais são as tendências dos IDE ou das estruturas Web?  
 
-O público-alvo desta investigação inclui profissionais de TI, gestores de RH e qualquer pessoa interessada no sector das TI que procure compreender as competências em TI mais procuradas nos seus domínios e que continuarão a ser relevantes no futuro.
+O público-alvo desta pesquisa inclui profissionais de TI, gerentes de RH e qualquer pessoa interessada na indústria de TI que busca entender quais são as habilidades de TI mais demandadas em suas áreas e que permanecerão relevantes no futuro.
 
 ## Metodologia
 
 * Recolher dados de inquéritos e explorar o seu conteúdo
 
-    Raspagem da Web
+    Web Scraping (Extração de dados da web)
 	
     Apis
 
-    Pedir biblioteca
+    Biblioteca Requests (Request library)
 
 * Tratamento de dados
 
@@ -48,18 +48,18 @@ O público-alvo desta investigação inclui profissionais de TI, gestores de RH 
 
     Destacar a distribuição dos dados, as relações, a composição e a comparação dos dados.
 
-* Painéis de controlo
+* Painéis de controlo (Dashboards)
 
-## Ligações rápidas
+## Links rápidos
 **Fonte de dados:** [survey-data](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/VYPrOu0Vs3I0hKLLjiPGrA/survey-data-with-duplicate.csv) <br>
 
 **Ferramentas:** <br>
-- Limpeza e tratamento de dados - Python no 
+- Limpeza e tratamento de dados - Python no JupyterLite 
 - Visualização de dados - Looker Studio
 
 ## Processo
 
-A base para esta análise na **Análise sobre tecnologias e tendências emergentes** e as etapas para o processamento dos dados são as seguintes:
+A base para essa análise das Tecnologias e Tendências Emergentes e os passos para o processamento dos dados são os seguintes:
 
 [Exploração do conjunto de dados e análise das tecnologias e tendências emergentes](https://github.com/JulianaAzevedo9/Analise-das-tecnologias-e-tendencias-emergentes/blob/main/survey_results_IBM_Capstone_Project(3)(1).ipynb)
 
@@ -151,7 +151,7 @@ A base para esta análise na **Análise sobre tecnologias e tendências emergent
 
 #### Gráfico de barras
 
-* O gráfico de barras abaixo mostra a distribuição dos inquiridos pelos 20 principais países.
+* O gráfico de barras abaixo mostra a distribuição dos respondentes pelos 20 principais países.
 
 ![imagem](https://github.com/JulianaAzevedo9/Analise-das-tecnologias-e-tendencias-emergentes/blob/main/distribuicao%20dos%20entrevistados%20por%20pais.png)
 
